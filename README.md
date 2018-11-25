@@ -4,7 +4,7 @@
 has executat per fer els apartats 1, 5, 10 i 14 de la pràctica. També has d'afegir la resposta a les preguntes
 dels apartat 6, 7 i 12 de la pràctica. 
 
-1- git branch branca00
+1- git branch branca00 <br>
 5-git checkout master
 10-git checkout master , git merge branca00
 14-git push origin branca01
